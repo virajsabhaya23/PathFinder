@@ -32,18 +32,8 @@ A python program that finds the shortest path in the maze.
 
 ---
 
-### <u>Overview of the Code</u> :
-**The code includes 4 functions which are stated below:**
-```python
-def get_currencies()  
-def print_currencies(currencies)
-def exchange_rate(currency1, currency2)
-def convert(currency1, currency2, amount)
-```
+### <u>Preview of the Output</u> :
 
----
+![](mazeRunner.png)
 
-#### <u>Lists of Commands</u> : 
-- LIST ~ shows all the currencies
-- CONVERT ~ it does the conversion of the entered currencies
-- RATE ~ shows the exchange rate of the currencies entered
+- The Green crossed line shows the shortest path computed
