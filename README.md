@@ -8,11 +8,8 @@ A python program that finds the shortest path in the maze.
    <img src="https://img.shields.io/badge/python-v3.6.0-brown ">
     <img src="https://img.shields.io/badge/pip-v22.0.4-blueviolet ">
     <img src="https://img.shields.io/badge/pip/pip3-curses-ff69b4 ">
-    <br />
     <img src="https://img.shields.io/badge/curses-wrapper-orange ">
-    <br />
     <img src="https://img.shields.io/badge/pip/pip3-queue-blue ">
-    <br />
     <img src="https://img.shields.io/badge/pip/pip3-time-olive ">
     <br />
 </p>
